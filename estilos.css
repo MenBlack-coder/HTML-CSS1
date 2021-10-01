@@ -1,0 +1,79 @@
+.container {
+    position: relative;
+   width: 100%;
+    background-color: hotpink;
+    
+  }
+.menu {
+    position: absolute; 
+    
+    left: 0%;
+    width: 10%;  
+    
+    padding: 30px;
+   
+    font-size: 30px;
+    font-family:fantasy;
+  
+    background-color: indigo;
+    
+  }
+
+  .section {
+  
+    margin-left: 200px;
+}
+
+.section img{
+position: relative;
+float: right;
+margin: 0 0 1em 1em;
+ 
+}
+ 
+  body {
+   
+  background-color: rgb(86, 137, 212);
+    
+  }
+  .section h1{
+    font-family:fantasy;
+    font-size: 70px;    
+  }
+  .section p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+  }
+  .section h2{
+    font-family:fantasy;
+    font-size: 40px;  
+  }
+  .sectiondois{
+    margin-left: 200px;
+   
+  }
+  .sectiondois h1{
+    font-family:fantasy;
+    font-size: 70px;    
+  }
+  .sectiondois p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+  }
+  .sectiondois h2{
+
+    font-family:fantasy;
+    font-size: 40px;  
+  }
+  .sectiontres{
+    margin-left: 200px;  
+  }
+  .sectiontres h1{
+    font-family:fantasy;
+    font-size: 70px;    
+  }
+  .sectiontres p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+  }
+  
